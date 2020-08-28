@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "abc",
+      "name": "Moda frança",
+      "price": "25.00",
+      "description": "Teste desc",
+      "id": 4,
+      "available": true
     }
   ]
 }
